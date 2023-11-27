@@ -1,0 +1,17 @@
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\BCrypt.Net-Next.dll
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\BCrypt.Net-Next.xml
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.signup.resources
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.login.resources
+c:\users\munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MDashboard.resources
+C:\Users\Munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SDashboard.resources
+C:\Users\Munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+C:\Users\Munezero\documents\visual studio 2015\Projects\RestaurentBilling\WindowsFormsApplication1\bin\Debug\itextsharp.xml
